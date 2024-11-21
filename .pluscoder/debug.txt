@@ -1,0 +1,10 @@
+[
+  {
+    "objective": "Create a main.py file with basic Hello World output",
+    "details": "Create a new file main.py in the root directory that prints \"Hello, World!\" when executed",
+    "agent": "developer",
+    "is_finished": false,
+    "restrictions": "Use Python print function",
+    "outcome": "New file main.py with Hello World implementation"
+  }
+]
